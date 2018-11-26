@@ -14,12 +14,14 @@ Teste desenvolvido na linguagem Ruby, com o framkework Capybara e utilizando BDD
 >> Instalar bundler
 
 Instalar bundler para facilitar a instalação das gems necessárias
+
 2. Executar via linha de comando -> gem install bundler
 
 >> Configurar cucumber, capybara e as demais gems necessárias 
 
 Todos esses pacotes estão sendo referenciados no arquivo chamado Gemfile 
 Para instalar/atualizar todas as gems executar o comando abaixo
+
 1. bundle install
 
 <h1> Executar o teste </h1>
