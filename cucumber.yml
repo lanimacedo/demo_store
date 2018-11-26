@@ -1,0 +1,10 @@
+default: -p bdd -p demo -p sem_headless -p html
+
+bdd: --format pretty
+
+html: --format html --out=results/report.html
+
+demo: ENVIRONMENT_TYPE=demo
+
+com_headless: HEADLESS=com_headless
+sem_headless: HEADLESS=sem_headless
