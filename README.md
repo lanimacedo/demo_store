@@ -22,11 +22,8 @@ Todos esses pacotes estão sendo referenciados no arquivo chamado Gemfile
 Para instalar/atualizar todas as gems executar o comando abaixo
 1. bundle install
 
->> Comandos para execução dos testes
-Acessar a pasta inicial do projeto
-
 <h1> Executar o teste </h1>
-
+Acessar a pasta inicial do projeto
 1. Comando --> cucumber
 
 <h1> Descrição do teste </h1>
