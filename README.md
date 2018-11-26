@@ -24,7 +24,8 @@ Para instalar/atualizar todas as gems executar o comando abaixo
 
 <h1> Executar o teste </h1>
 Acessar a pasta inicial do projeto
-1. Comando --> cucumber
+
+1. Executar o comando --> cucumber
 
 <h1> Descrição do teste </h1>
 
