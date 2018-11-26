@@ -2,7 +2,7 @@
 
 Teste desenvolvido na linguagem Ruby, com o framkework Capybara e utilizando BDD com Cucumber
 
-<h1> Configuração </h1>
+<h2> Configuração </h2>
 
 >>Configurar Ruby
 
@@ -26,13 +26,13 @@ Para instalar/atualizar todas as gems executar o comando abaixo
 
 1. bundle install
 
-<h1> Executar o teste </h1>
+<h2> Executar o teste </h2>
 
 Acessar a pasta inicial do projeto
 
 1. Executar o comando --> cucumber
 
-<h1> Descrição do teste </h1>
+<h2> Descrição do teste </h2>
 
 1. Acessar o site: http://demo.cs-cart.com/.
 2. No campo “Procurar Produtos” pesquise usando o valor “Batman”.
